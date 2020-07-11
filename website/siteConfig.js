@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'React Bootstrap', // Title for your website.
   tagline: 'The most popular front-end framework',
   url: 'https://rafirafika.github.io', // Your website URL
-  baseUrl: 'https://github.com/rafirafika/Docosaurus/', // Base URL for your project */
+  baseUrl: '/Docosaurus/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',

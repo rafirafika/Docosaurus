@@ -10,3 +10,6 @@ Something has been done
 * Make some .md files for content 'Component' and linked them to side navigation
 * wrote something on the blog
 * Design page About
+* Make new file translation and translate manually in crowdin (my free crowdin account will expired soon T_T)
+
+this day till here (at noon),, need to move on to BCAI again (till mid night btw @_@)
