@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
   title: 'React Bootstrap', // Title for your website.
   tagline: 'The most popular front-end framework',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'https://rafirafika.github.io', // Your website URL
+  baseUrl: 'https://github.com/rafirafika/Docosaurus/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'Docosaurus',
+  organizationName: 'rafirafika',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Designed and built with all the love in the world by Wiwit Rafika Sari`,
+  copyright: `Copyright © ${new Date().getFullYear()} Designed and built with all the love in the world by Me`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

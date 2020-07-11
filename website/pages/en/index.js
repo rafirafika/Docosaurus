@@ -88,6 +88,7 @@ class HomeSplash extends React.Component {
             <Button href={docUrl('Introduction.html')}><translate>Get Started</translate></Button>
             <Button href={docUrl('Component/Alert.html')}><translate>Component</translate></Button>
           </PromoSection>
+          <smal style={{color:'grey'}}>website clone</smal>
         </div>
       </SplashContainer>
     );
