@@ -102,8 +102,9 @@ const siteConfig = {
   // Show documentation's last update time.
   enableUpdateTime: true,
 
-  //facebookAppId 
-  //facebookComments : true,
+  facebookAppId :'729052927910834',
+  // appSecret : '09d5f5b701b3ee785433d7bc15c4b86d'
+  facebookComments : true,
   
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
