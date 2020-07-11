@@ -1,0 +1,15 @@
+{
+  "docs": {
+    "Getting Started": ["Introduction", "Why", "Theming", "Support"],
+    "Layout":["Layout","LayoutMedia"]    
+  },
+  "Other": {
+    "Component": [
+      "Component/Alert",
+      "Component/Accordion",
+      "Component/Badge",
+      "Component/Breadcrumb",
+      "Component/Button"
+    ]
+  }
+}
